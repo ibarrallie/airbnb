@@ -14,5 +14,5 @@
 
 SELECT neighborhood
 FROM listings
-ORDER BY neighborhood
+GROUP BY neighborhood
 ;
